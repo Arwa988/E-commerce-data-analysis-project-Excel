@@ -4,4 +4,4 @@ Track the sales of the e-commerce company by tracking the sales across different
 ## Pivot tables
 ![E-commerce-data-analysis-project-Excel](https://github.com/Arwa988/E-commerce-data-analysis-project-Excel/blob/main/pivot-tables.png)
 ## Dashboard
-![E-commerce-data-analysis-project-Excel](
+![E-commerce-data-analysis-project-Excel](https://github.com/Arwa988/E-commerce-data-analysis-project-Excel/blob/main/E-commerce%20dashboard%20(2).png)
