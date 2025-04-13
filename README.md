@@ -2,7 +2,7 @@
 ## Project idea
 Track the sales of the e-commerce company by tracking the sales across different regions and track the sales across different duration in the year in addition to knowing the most categories that have the highest sales.
 ## Dashboard
-![E-commerce-data-analysis-project-Excel](https://github.com/Arwa988/E-commerce-data-analysis-project-Excel/blob/main/images/Screenshot%20(66).png)
+![E-commerce-data-analysis-project-Excel](https://github.com/Arwa988/E-commerce-data-analysis-project-Excel/blob/main/images/Screenshot%20(53).png)
 ## Insights:
 - Technology category is the highest sales categoty
 - Phones is the highest sales subcategory in the technology category
